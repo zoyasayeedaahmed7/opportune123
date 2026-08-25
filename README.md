@@ -1,2 +1,1 @@
-﻿# zoya_project
-This is a Platform for Internships.
+
